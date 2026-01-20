@@ -1,7 +1,6 @@
 # 💻 Laptop Price Prediction
 
 This project predicts the **price of a laptop** based on its specifications using **Machine Learning**.  
-It helps users estimate laptop prices by providing inputs such as brand, processor, RAM, storage, GPU, and other features.
 
 ---
 
